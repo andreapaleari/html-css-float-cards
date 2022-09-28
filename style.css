@@ -2,10 +2,15 @@
     --rosso: #E43170;
 }
 *{
-    font-family: 'Fredoka One', cursive;
+    font-family: 'Fredoka', cursive;
+}
+body{
+    max-width: 1000px;
+    margin: auto;
 }
 h1{
     color: var(--rosso);
+    margin-bottom: 40px;
 }
 .centro{
     text-align: center;
