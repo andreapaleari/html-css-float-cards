@@ -1,0 +1,12 @@
+:root {
+    --rosso: #E43170;
+}
+*{
+    font-family: 'Fredoka One', cursive;
+}
+h1{
+    color: var(--rosso);
+}
+.centro{
+    text-align: center;
+}
