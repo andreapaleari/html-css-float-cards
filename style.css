@@ -4,6 +4,11 @@
 *{
     font-family: 'Fredoka', cursive;
 }
+.clearfix::after{
+    content: "";
+    clear: both;
+    display: table;
+}
 body{
     max-width: 1000px;
     margin: auto;
